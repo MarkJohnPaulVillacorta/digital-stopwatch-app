@@ -29,3 +29,79 @@ It provides accurate time tracking with features such as **start, pause, continu
 ---
 
 ## 🗂️ Project Structure
+
+stopwatch/
+│
+├── index.html # Main HTML file
+├── style.css # Styles and animations
+└── script.js # Stopwatch logic and functionality
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Application structure
+- **CSS3** – Styling and animation effects
+- **JavaScript** – Stopwatch logic, lap handling, and history tracking
+
+---
+
+## 📥 Installation (Clone Repository)
+
+Follow these steps to run the project locally:
+
+1. Open your terminal or command prompt  
+2. Clone the repository using the command below:
+
+```bash
+git clone https://github.com/MarkJohnPaulVillacorta/digital-stopwatch-app.git
+```
+Navigate to the project folder:
+```bash
+cd digital-stopwatch-app
+```
+Open the project:
+
+Simply double-click index.html
+or
+
+Open index.html using any modern web browser (Chrome, Edge, Firefox)
+
+---
+
+▶️ How to Use
+
+Click Start to begin the stopwatch
+
+Click Pause to temporarily stop the time
+
+Click Continue to resume timing
+
+Click Lap to record lap times
+
+Click Stop to end the session and save it to history
+
+Click Reset to clear the stopwatch for a new session
+
+---
+
+🎓 Student Information
+
+Name: MARK JOHN PAUL VILLACORTA
+
+Course & Section: 4-BSIT-D
+
+Requirement: REQUIREMENTS FOR ELECTIVE 3
+
+---
+
+🎯 Purpose of the Project
+
+This project was developed to fulfill the requirements for Elective 3 and to demonstrate:
+
+Proper file separation (HTML, CSS, JavaScript)
+
+JavaScript timing and event handling
+
+UI design with animation effects
+
+Functional web-based application development
